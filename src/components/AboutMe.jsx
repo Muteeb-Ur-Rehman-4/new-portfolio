@@ -18,7 +18,7 @@ const AboutMe = () => {
             <FontAwesomeIcon className='h-[6.75rem] lg:h-[6rem] md:h-[6.5rem] sm:h-[3.5rem] xs:h-[4.5rem] w-auto' icon={faComputer} />
             <p className='text-center text-2xl md:text-xl font-bold mb-3'>Software engineer</p>
           </div>
-          <p className='text-justify text-[1rem] opacity-0 max-h-0 group-hover:opacity-100 group-hover:max-h-60 transition-all duration-300'>
+          <p className='text-justify xl:text-[1rem] lg:text-[1rem] md:text-[0.75rem] sm:text-[0.8rem] xs:text-[0.6rem] opacity-0 max-h-0 group-hover:opacity-100 group-hover:max-h-60 transition-all duration-300'>
             Currently working as a software Engineer at Augment Scale, having a year's worth of hands-on with JavaScript intensive web and desktop development technologies.
           </p>
         </div>
@@ -31,7 +31,7 @@ const AboutMe = () => {
             <FontAwesomeIcon className='h-[6.75rem] lg:h-[6rem] md:h-[6.5rem] sm:h-[3.5rem] xs:h-[4.5rem] w-auto' icon={faGamepad} />
             <p className='text-center text-2xl md:text-xl font-bold mb-3'>Gaming enthusiast</p>
           </div>
-          <p className='text-justify text-[1rem] opacity-0 max-h-0 group-hover:opacity-100 group-hover:max-h-60 transition-all duration-300'>
+          <p className='text-justify xl:text-[1rem] lg:text-[1rem] md:text-[0.75rem] sm:text-[0.8rem] xs:text-[0.6rem] opacity-0 max-h-0 group-hover:opacity-100 group-hover:max-h-60 transition-all duration-300'>
             I started gaming at a very young age and once you get into it you can never go back! From 2D sega games to Open world masterpieces like Elden ring is how I grew up....
           </p>
         </motion.div>
@@ -44,7 +44,7 @@ const AboutMe = () => {
             <FontAwesomeIcon className='h-[6.75rem] lg:h-[6rem] md:h-[6.5rem] sm:h-[3.5rem] xs:h-[4.5rem] w-auto' icon={faFutbol} />
             <p className='text-center text-2xl md:text-xl font-bold mb-3'>Football and Fitness</p>
           </div>
-          <p className='text-justify text-[1rem] opacity-0 max-h-0 group-hover:opacity-100 group-hover:max-h-60 transition-all duration-300'>
+          <p className='text-justify xl:text-[1rem] lg:text-[1rem] md:text-[0.75rem] sm:text-[0.8rem] xs:text-[0.6rem] opacity-0 max-h-0 group-hover:opacity-100 group-hover:max-h-60 transition-all duration-300'>
             Growing up, I always loved playing football. Still trying to maintain a healthy physique because health is the most important thing in life!
           </p>
         </motion.div>

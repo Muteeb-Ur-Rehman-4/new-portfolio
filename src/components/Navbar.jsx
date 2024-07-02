@@ -6,7 +6,7 @@ const Navbar = ({ toggleTheme, darkMode }) => {
   return (
     <motion.nav initial={{ opacity: 0 }}
     transition={{ duration: 0.8 }}
-    whileInView={{ opacity: 1 }} className='mb-20 flex items-center justify-between py-6'>
+    whileInView={{ opacity: 1 }} className='md:mb-0 xs:mb-20 flex items-center justify-between py-6'>
       <div className='flex flex-shrink-0 items-center justify-between w-[10rem]'>
         <a href="https://www.linkedin.com/in/muteeb-ur-rehman4/" className='hover:brightness-110 transition-transform transform hover:scale-110'><FaLinkedin className='size-16' /></a>
         <button 
